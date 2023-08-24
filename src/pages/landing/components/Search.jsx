@@ -5,7 +5,7 @@ import { Form, Formik } from 'formik'
 
 import { appUrls } from '../../../service/urls';
 import Capsules from './Capsules';
-import Pagination from '../../../components/modal/Pagination';
+import Pagination from '../../../components/Pagination';
 
 
 
