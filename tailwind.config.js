@@ -11,7 +11,6 @@ export default {
       "2xl": "1536px",
     },
     colors: {
-      primary: "",
 
       BLUE: {
         _100: "#5c9ac6",
